@@ -1,0 +1,7 @@
+C:\Programas\Curso DIO\Desafio_Hospedagem\bin\Debug\Desafio_Hospedagem.exe.config
+C:\Programas\Curso DIO\Desafio_Hospedagem\bin\Debug\Desafio_Hospedagem.exe
+C:\Programas\Curso DIO\Desafio_Hospedagem\bin\Debug\Desafio_Hospedagem.pdb
+C:\Programas\Curso DIO\Desafio_Hospedagem\obj\Debug\Desafio_Hospedagem.csproj.AssemblyReference.cache
+C:\Programas\Curso DIO\Desafio_Hospedagem\obj\Debug\Desafio_Hospedagem.csproj.CoreCompileInputs.cache
+C:\Programas\Curso DIO\Desafio_Hospedagem\obj\Debug\Desafio_Hospedagem.exe
+C:\Programas\Curso DIO\Desafio_Hospedagem\obj\Debug\Desafio_Hospedagem.pdb
